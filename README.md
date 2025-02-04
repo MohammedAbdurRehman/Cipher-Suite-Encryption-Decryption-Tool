@@ -24,7 +24,7 @@ The tool allows users to select a cipher, input text, choose encryption or decry
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/cipher-suite.git
+git clone https://github.com/MohammadAbdurRehman/cipher-suite.git
 ```
 
 Navigate into the directory:
